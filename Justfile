@@ -1,0 +1,14 @@
+default:
+    @just --list
+
+dev:
+    pnpm run dev
+
+build:
+    pnpm run build
+
+lint:
+    pnpm run lint
+
+preview:
+    pnpm run preview

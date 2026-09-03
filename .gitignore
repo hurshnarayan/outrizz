@@ -25,3 +25,6 @@ dist-ssr
 
 CLAUDE.local.md
 .claude/*
+GEMINI.md
+GEMINI.local.md
+.gemini/*
